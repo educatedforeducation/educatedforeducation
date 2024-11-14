@@ -5,3 +5,8 @@
 **Absolute AI Maniac!  If something can be automated or improved with AI, I will improve it.**
 
 **Feel free to hit me up on GitHub if you have any questions or cool ideas! (But heads up, emails might get lost in the black hole that is my inbox.)**
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@educatedbee/30-nites-of-code)  
+  ![@educatedbee #30NitesOfCode](https://www.codedex.io/api/petStatus?user=educatedbee)
+  
